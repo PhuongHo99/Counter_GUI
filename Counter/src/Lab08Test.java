@@ -8,7 +8,7 @@ import javax.swing.JFrame;
  * @author hophuong
  *
  */
-public class Test {
+public class Lab08Test {
 
 	/**
 	 * @param args
